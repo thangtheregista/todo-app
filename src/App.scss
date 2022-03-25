@@ -1,0 +1,17 @@
+.App {
+  background-color: black;
+  color: red;
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  h1 {
+    margin: 0;
+    padding: 0;
+  }
+  .lists-container {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+  }
+}
